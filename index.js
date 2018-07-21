@@ -3,7 +3,7 @@ const client = new Discord.Client();
 var request = require("superagent");
 
 //----------------------------------------------
-var token = ""
+var token = "NDYzMDIyMzczMzQ0NjQxMDI1.DjSuOA.84yNMGnT5Vu-8IyVgqBsXx_n9Xo"
 var prefix = "nsfw "
 var discordbotsorgtoken = ""
 var discordpwtoken = ""
